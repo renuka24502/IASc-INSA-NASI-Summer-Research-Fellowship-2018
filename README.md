@@ -1,6 +1,7 @@
 # IASc-INSA-NASI-Summer-Research-Fellowship-2018
 # Mentor- Mr. Sateesh Chandrapuri
-CSIR- National Geophysical Research Institute
+Indian Academy of Sciences, Bangalore
+Research undertaken at- CSIR- National Geophysical Research Institute, Hyderabad
 # UNI-COMPRESSIVE STRAIN MEASUREMENT OF ROCK SAMPLES USING PIC MICROCONTROLLER
 
 ABSTRACT
